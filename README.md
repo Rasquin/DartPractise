@@ -12,3 +12,9 @@ IF and ELSE
 Conditional Expressions
 SWITCH and CASE Statements
 
+Loop Control Statements:
+Iterator syntax: For, While, Do-While
+Break Keyword and labels
+Continue Keyword and labels
+
+
