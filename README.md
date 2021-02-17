@@ -17,4 +17,9 @@ Iterator syntax: For, While, Do-While
 Break Keyword and labels
 Continue Keyword and labels
 
+Exploring Functions or Methods:
+Function Definition
+FunctionExpressions
+Function parameters: required and optional ( positional, named and default)
+
 
