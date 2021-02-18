@@ -22,4 +22,12 @@ Function Definition
 FunctionExpressions
 Function parameters: required and optional ( positional, named and default)
 
+Exception Handling:
+ON, CATCH, STACK TRACE, FINALLY  and Custom Exception.
 
+
+Objecte orientation:
+Creation of Class and Objects
+Instance Variables or Field Variables
+Definition of funtions in a Class
+Constructors: default, parameterized, named and constant.
