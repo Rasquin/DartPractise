@@ -27,7 +27,14 @@ ON, CATCH, STACK TRACE, FINALLY  and Custom Exception.
 
 
 Objecte orientation:
-Creation of Class and Objects
+Creation of Class and Objects.
 Instance Variables or Field Variables
 Definition of funtions in a Class
 Constructors: default, parameterized, named and constant.
+Getter and Setters: Default and Custom
+Inheritance 
+Method Overriding
+Using Constructors during Inheritance
+Abstract Classes and Methods
+Usinf interface in Dart
+Static Methods and Variables
