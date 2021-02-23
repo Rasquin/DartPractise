@@ -36,5 +36,14 @@ Inheritance
 Method Overriding
 Using Constructors during Inheritance
 Abstract Classes and Methods
-Usinf interface in Dart
+Using interface in Dart
 Static Methods and Variables
+
+Functional Programming:
+Lambdas & Higher-Order Function
+Closures
+
+Exploring Section Objetives:
+List --> Fixed length lsit &Growable list
+Set --> HashSet
+Maps --> HashMap
