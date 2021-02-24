@@ -38,6 +38,7 @@ Using Constructors during Inheritance
 Abstract Classes and Methods
 Using interface in Dart
 Static Methods and Variables
+Callable Class
 
 Functional Programming:
 Lambdas & Higher-Order Function
