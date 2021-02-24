@@ -43,7 +43,7 @@ Functional Programming:
 Lambdas & Higher-Order Function
 Closures
 
-Exploring Section Objetives:
-List --> Fixed length lsit &Growable list
+Exploring Collections:
+Fixed length list &Growable list
 Set --> HashSet
 Maps --> HashMap
